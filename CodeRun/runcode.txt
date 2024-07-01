@@ -1,0 +1,16 @@
+dotnet watch --project "C:\Users\Dell\Desktop\VSCodeCloneMasterApi\Master.API\Master.API\Master.API.csproj" run
+
+
+
+dotnet watch 🚀 Started 'C:\Program Files\dotnet\dotnet.exe' 'msbuild /t:Build /restore /nologo' with process id 34268`
+
+dotnet watch -v --project Master.API.csproj
+
+dotnet watch 🚀 Started 'C:\Program Files\dotnet\dotnet.exe' with arguments 'msbuild /nologo /t:Build /restore': process id 9840
+
+dotnet watch --project ".\Master - Backup.API.csproj" run
+
+dotnet watch --project ".\Master.API.csproj" run
+dotnet --info
+
+dotnet watch run
